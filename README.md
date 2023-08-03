@@ -1,5 +1,12 @@
-<h1>Hello, Welcome to my page.</h1>
-- 👋 I'm Amirhosein Asgari from 🇮🇷 IRAN. I'm 16 years old a 🐍- python -🐍 developer! I have started coding and website desingning from 14 until now.
+<head>
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<h1>Hello, Welcome to my page 😊</h1>
+<ul>
+  <li>👋 I'm Amirhosein Asgari from 🇮🇷 IRAN. I'm 16 years old a 🐍- python -🐍 developer! I have started coding and website desingning from 14 until now.</li>
+</ul>
+- 
 - 👀 I’m interested in **Backend**	, Create **Windows** or **Linux** **apps** and **WordPress** web designing
 - 🌱 I’m currently learning Django Advanced and JS. 
 - 💞️ I’m looking to collaborate on Microsoft! It's my dream to have a job there. 
