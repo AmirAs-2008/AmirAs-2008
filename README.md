@@ -9,7 +9,13 @@
 <h4>I’m currently learning Django Advanced and JS.</h4>
 <h4>I’m looking to collaborate on Microsoft! It's my dream to have a job there. </h4> 
 
-- 📫 How to reach me ...
+<div>
+  You can access me on
+</div>
+<div>
+  <a href="gmail.com/amirhosein.asgari.2008@gmail.com">Gmail</a>
+  <a href="">Rubika</a>
+</div>
 
 <!---
 AmirAs-2008/AmirAs-2008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
