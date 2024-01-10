@@ -3,7 +3,7 @@
 </head>
 
 <h1>Hello, Welcome to my page 😊</h1>
-<h4>👋 I'm Amirhosein Asgari from 🇮🇷 IRAN. I'm a 🐍- python -🐍 developer! I have started coding and website desingning from 14 until now.</h4>
+<h4>👋 I'm Amirhosein Asgari from 🇮🇷 IRAN. I'm a 🐍- python -🐍 developer! I have been learning coding and computer science desingning from 11 until now.</h4>
 <hr>
 <h4>👀 I’m interested in (Backend)	, Create (Windows) or (Linux) apps and (WordPress) web designing</h4>
 <h4>I know these concepts:</h4>
